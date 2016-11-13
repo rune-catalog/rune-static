@@ -1,15 +1,17 @@
 {
   "name": "rune-static",
   "version": "0.0.1",
-  "description": "",
+  "description": "Static site for the Rune frontend",
+  "repository": "rune-catalog/rune-static",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sam Noedel <sam.noedel@gmail.com>",
   "license": "GPL-3.0",
   "dependencies": {
+    "rune-ui": "0.0.1",
     "rune-ui-resources": "0.0.4"
   }
 }
