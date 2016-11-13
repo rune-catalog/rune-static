@@ -11,7 +11,7 @@
   "author": "Sam Noedel <sam.noedel@gmail.com>",
   "license": "GPL-3.0",
   "dependencies": {
-    "rune-ui": "0.0.1",
-    "rune-ui-resources": "0.0.4"
+    "rune-ui": "^0.0.4",
+    "rune-ui-resources": "^0.0.4"
   }
 }
